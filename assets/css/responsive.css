@@ -1,0 +1,96 @@
+@media screen and (max-width:800px) {
+    
+    form{
+        text-align: center;
+        justify-items: center;
+        font-size: 22px;
+        display: flex;
+        flex-direction: column;
+    }
+   
+.row .col-7{
+    height: 14pc;
+    width: 100% !important;
+    font-size: 14px;
+    flex-direction: column;
+}
+.text-center{
+    width: auto;
+}
+.section-3{
+    justify-content: center;
+    margin-top: 24%;
+    grid-template-columns: 1fr;
+}
+.section-3 p{
+    font-size: 15px !important;
+}
+/* .section-3 input{
+    width: 116px;
+} */
+ .section-3 .btn{
+    margin-right: -58px;
+    width: 13pc;
+    
+}
+
+.section-4{
+    justify-content: center;
+    margin-top: 24%;
+    grid-template-columns: 1fr;
+}
+.section-4 .btn{
+    margin-right: -58px;
+    width: 13pc;
+}
+.section-4 p{
+    font-size: 15px !important;
+}
+.col-3 {
+    font-size: 15px;
+
+    width: 135px;
+}
+.col p{
+    font-size: 12px;
+}
+.section-5 p{
+    width: 318%;
+    font-size: 14px;
+}
+
+.card{
+    background-color: rgb(255 182 59);
+    text-align: start;
+    width: 18pc;
+    height: 16pc;
+    
+}
+.text-white{
+  width: 97% !important;
+}
+.text-white .btn{
+    width: 60% !important;
+
+  }
+  .text-white{
+    position: relative;
+    left: 0%;
+    top: 6pc;
+
+}
+.section-8{
+    grid-template-columns: 1fr;
+    position: relative;
+    top: 14pc;
+}
+footer{
+    grid-template-columns: 1fr ;
+    position: relative;
+    top: 15pc;
+
+}
+}
+/* @media screen and (max-width:1000px) {
+   
+} */
