@@ -75,8 +75,8 @@ section {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     text-align: center;
-    width: 86%;
-    margin-left: 7%;
+    width: 90%;
+    margin-left: 5%;
     justify-items: center;
 
 
@@ -119,8 +119,8 @@ section .form-control {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     text-align: center;
-    width: 86%;
-    margin-left: 7%;
+    width: 90%;
+    margin-left: 5%;
     justify-items: center;
 }
 .section-4 .col {
